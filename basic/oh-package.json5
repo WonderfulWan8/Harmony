@@ -1,12 +1,10 @@
 {
-  "name": "entry",
+  "name": "basic",
   "version": "1.0.0",
   "description": "Please describe the basic information.",
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {
-    "@ohos/basic": "file:../basic"
-  }
+  "dependencies": {}
 }
 
